@@ -1,0 +1,42 @@
+*   [33mcommit c95d1fabe790b4e4e9e4b926763daa6ae8d712a4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mddd[m[33m)[m
+[31m|[m[32m\[m  Merge: 18a28ad 8f64bbd
+[31m|[m [32m|[m Author: Buddhi Nadeeshan <Buddhinadeeshan97@gmail.com>
+[31m|[m [32m|[m Date:   Wed Jun 14 23:01:17 2023 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'master' into ddd
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 8f64bbdebfa31047cd8323a14c1c6850a9441845[m[33m ([m[1;31morigin/new[m[33m, [m[1;32mnew[m[33m)[m
+[31m|[m [32m|[m Author: Buddhi Nadeeshan <Buddhinadeeshan97@gmail.com>
+[31m|[m [32m|[m Date:   Wed Jun 14 22:47:06 2023 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     fuck
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 18a28adaf0761315f9051b195262da8bb24c5d1e[m[33m ([m[1;31morigin/ddd[m[33m)[m
+[32m|[m[32m/[m  Author: jagath <jagathdammika17595@gmail.com>
+[32m|[m   Date:   Wed Jun 14 22:10:01 2023 -0700
+[32m|[m   
+[32m|[m       sshhs
+[32m|[m 
+* [33mcommit 00737a85b8a68dcfc623548d08bef051035e4da4[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[32m|[m Author: jagath <jagathdammika17595@gmail.com>
+[32m|[m Date:   Wed Jun 14 05:47:38 2023 -0700
+[32m|[m 
+[32m|[m     login html file added
+[32m|[m 
+* [33mcommit e5c8a0b0a0ae09fbc0c4d5e0f5322e356e0a669c[m
+[32m|[m Author: jagath <jagathdammika17595@gmail.com>
+[32m|[m Date:   Wed Jun 14 05:43:38 2023 -0700
+[32m|[m 
+[32m|[m     another commit
+[32m|[m 
+* [33mcommit 23e606330303b478b6d8d2f2b825e4a29461859b[m
+[32m|[m Author: jagath <jagathdammika17595@gmail.com>
+[32m|[m Date:   Wed Jun 14 05:35:30 2023 -0700
+[32m|[m 
+[32m|[m     edited app.js
+[32m|[m 
+* [33mcommit 09f3fbf5b5e9fe9369e119b1bd1a3ff66156d017[m
+  Author: jagath <jagathdammika17595@gmail.com>
+  Date:   Wed Jun 14 05:28:11 2023 -0700
+  
+      Initial commit
